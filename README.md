@@ -16,11 +16,8 @@ Hello Yash
 Hello Deep 
 
 Hello Yash
-# Hi Manu
+
 # Hi This is Manu 😎😉
 
-
-
-# Hi Manu
 
 
